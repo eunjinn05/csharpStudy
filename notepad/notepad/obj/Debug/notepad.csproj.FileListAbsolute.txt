@@ -1,0 +1,10 @@
+C:\workspace\notepad\notepad\bin\Debug\notepad.exe.config
+C:\workspace\notepad\notepad\bin\Debug\notepad.exe
+C:\workspace\notepad\notepad\bin\Debug\notepad.pdb
+C:\workspace\notepad\notepad\obj\Debug\notepad.csproj.AssemblyReference.cache
+C:\workspace\notepad\notepad\obj\Debug\notepad.Form1.resources
+C:\workspace\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\workspace\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+C:\workspace\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+C:\workspace\notepad\notepad\obj\Debug\notepad.exe
+C:\workspace\notepad\notepad\obj\Debug\notepad.pdb
